@@ -1,1 +1,2 @@
-# Telegram-Bot Python bot for sending random images
+# Telegram-Bot 
+Python bot for sending random images
